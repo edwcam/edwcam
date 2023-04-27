@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ed!
+
+I am an aspiring software developer. I have a decade of experience in IT, I am a self-taught software developer and I am always looking for new and exciting opportunities to challenge myself and grow as a professional.
 
 <!--
-**edwcam/edwcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
