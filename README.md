@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ed!
 
-I have a decade+ of experience in IT, I am a self-taught software developer and I am always looking for new and exciting opportunities to challenge myself and grow as a professional.
+Problem solver.
 
 <!--
 
